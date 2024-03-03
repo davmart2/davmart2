@@ -1,6 +1,6 @@
-### Hi there 👋
 
-<!--
+![github-header-image](https://github.com/davmart2/davmart2/assets/161580996/2fc655ca-f4bc-4121-9a38-925f6b97d627)
+
 **davmart2/davmart2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
